@@ -1,0 +1,24 @@
+2591 - Corp
+4965 - Nomad
+5250 - Bal'Lak
+4646 - Balance Ele
+
+
+
+Bosses Coords - 
+GWD: 2882 5310 H3 - Done Teleport
+KBD: 3007 3849
+Daggs: 2479 10147 - Done Ladder
+Corp: 3302 9372 - Done Ladder
+KQ: 3505 9494
+Bal'LaK: 1993 4647 - Done Ladder
+Pheonix: 2384 4712
+TD's: 2717 9805 - Done Teleport
+Balance Elemental: 2560 4950 - Done Ladder
+Nomad: 3253 9517 H2 - Done Ladder
+
+
+NPCs to Use:
+3328 
+4569
+5896

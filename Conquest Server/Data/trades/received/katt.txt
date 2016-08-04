@@ -1,0 +1,43 @@
+
+Year : 2013	Month : 0	Day : 5
+Received 1 'perfect' ring From haribo
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Received 100000 Law rune From haribo
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Received 100000 Fire rune From haribo
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Received 100000 Water rune From haribo
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Received 100000 Air rune From haribo
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Received 100000 Blood rune From haribo
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Received 100000 Nature rune From haribo
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Received 100000 Earth rune From haribo
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Received 100000 Death rune From haribo
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Received 100000 Soul rune From haribo
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Received 100000 Body rune From haribo
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Received 100000 Mind rune From haribo
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Received 100000 Chaos rune From haribo
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Received 100000 Cosmic rune From haribo
+--------------------------------------------------

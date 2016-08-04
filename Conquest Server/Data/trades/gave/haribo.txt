@@ -1,0 +1,304 @@
+
+Year : 2013	Month : 0	Day : 5
+Gave 1 'perfect' ring To katt
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 100000 Law rune To katt
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 100000 Fire rune To katt
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 100000 Water rune To katt
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 100000 Air rune To katt
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 100000 Blood rune To katt
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 100000 Nature rune To katt
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 100000 Earth rune To katt
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 100000 Death rune To katt
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 100000 Soul rune To katt
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 100000 Body rune To katt
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 100000 Mind rune To katt
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 100000 Chaos rune To katt
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 100000 Cosmic rune To katt
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 201560 Fire rune To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 201001 Water rune To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 211051 Blood rune To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 200164 Air rune To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 200295 Mind rune To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 240121 Death rune To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 200100 Body rune To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 200503 Earth rune To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 200060 Law rune To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 500001 Soul rune To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 200000 Astral rune To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 200100 Nature rune To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 200094 Chaos rune To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Abyssal whip To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Abyssal whip To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Abyssal whip To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Abyssal whip To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 50000 Crystal key To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Blessed spirit shield To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Arcane spirit shield To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Elysian spirit shield To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Spectral spirit shield To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Inferno adze To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 2 Verac's helm To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Vesta's platebody To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Vesta's plateskirt To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Vesta's platebody To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Vesta's plateskirt To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Black partyhat To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Gnome scarf To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Abyssal whip To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 'perfect' ring To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Skeleton gloves To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Desert boots To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Dragon platebody To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 200000 Cosmic rune To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Santa hat To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Dragon platelegs To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Vesta's spear To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Vesta's longsword To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Vesta's longsword To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 2 Bandos tassets To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 2 Bandos chestplate To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Vesta's spear To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Flared trousers To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Gilded platebody To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 2 White beret To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 2 Gilded full helm To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Blue h'ween mask To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Gilded kiteshield To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Green h'ween mask To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 9 Berserker ring To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 2 Gilded platelegs To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 11 Amulet of fury To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Red h'ween mask To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Cooking gauntlets To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Princess blouse To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Princess blouse To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 50000000 Coins To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Dragon claws To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Aviator leggings To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Chaotic rapier To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Ranger boots To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Ranger boots To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Ranger boots To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Divine spirit shield To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Brawling gloves (mining) To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Onyx ring (i) To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Brawling gloves (fm) To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 200 Rune c'bow To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 200 Dragon bolts (e) To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Dragon axe To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Dragon pickaxe To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Vanguard body To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Armadyl body To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Purple elegant blouse To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Dharok's greataxe To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Katagon platelegs To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Dharok's platebody To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 10 Dragon boots To nikki
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 1 Bow-sword To yarand
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 5
+Gave 50000000 Coins To yarand
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 6
+Gave 1 Super restore (2) To eli
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 6
+Gave 1 Super restore (4) To eli
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 6
+Gave 1 Super restore (2) To eli
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 6
+Gave 1 Super restore (4) To eli
+--------------------------------------------------
+Year : 2013	Month : 0	Day : 6
+Gave 1 Super restore (3) To eli
+--------------------------------------------------
