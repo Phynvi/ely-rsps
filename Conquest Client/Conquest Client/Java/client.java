@@ -15210,6 +15210,7 @@ case 174:
 		drawFlames = false;
 		reportAbuseInput = "";
 		unknownInt10 = -1;
+		//test
 		menuOpen = false;
 		inputString = "";
 		maxPlayers = 2048;
